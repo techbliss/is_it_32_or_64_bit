@@ -2,7 +2,7 @@ Is it 32 or 64 bit Sigcheck quickmenu.
 
 I made this windows quick menu for Sigcheck, since i had to troubleshoot a file that was not the right arch in a software, and dependency walker didn't helped out.
 
-It scan both file and folders.
+It scans both file and folders.
 
 Sigcheck by sysinternals is a command line tool, so i added it to the right click menu to speed it up a little.
 
